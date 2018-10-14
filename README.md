@@ -12,11 +12,7 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 
 ![plot](https://i.postimg.cc/SR6RXNt5/plot.png)
 
+# Demo
 ![Home page](https://i.postiimg.cc/8k2KW5xX/home.png)
 ![ingredients page](https://i.postimg.cc/HxJz8DzC/dosa.png)
 
-## Training step:
-
-
-# Prediction result
-![prediction](https://gdurl.com/0Jxj)
