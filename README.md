@@ -14,7 +14,7 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 
 # Demo
 ![Home page](https://preview.ibb.co/nruho0/home.png)
-![ingredients page](https://i.postimg.cc/HxJz8DzC/dosa.png)
+![ingredients page](https://preview.ibb.co/gZEAaf/dosa.png)
 
 ## Run Wep app:
 ```
@@ -22,4 +22,6 @@ pip install -r requirement.txt
 cd foodImageClassifier
 python manage.py runserver
 ```
-Download the dataset from
+
+# Training the model:
+training porcess and evaluating model done in [this notebook](https://github.com/10zinten/deepfood/blob/master/FIC%20fine-tuned%20on%20ResNet-50%20with%20keras.ipynb). Download the dataset from [here](https://www.floydhub.com/tenzinknrb/datasets/indian-food-images)
