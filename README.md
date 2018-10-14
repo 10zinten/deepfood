@@ -3,6 +3,8 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 ![result](https://i.postimg.cc/prDxYSCm/final-prediction.png)
 
 # Model summary:
+With the help of transfer learning,  model achieved good accuracy on only 200 images from each class.
+
 |                                 |                                |
 |---------------------------------|-------------------------------:|
 | # classes                       | 7                              |
@@ -18,9 +20,9 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 
 ## Run Wep app:
 ```
-pip install -r requirement.txt
-cd foodImageClassifier
-python manage.py runserver
+$ pip install -r requirement.txt
+$ cd foodImageClassifier
+$ python manage.py runserver
 ```
 
 # Training the model:
