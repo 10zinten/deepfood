@@ -1,8 +1,8 @@
-# DeepCook
+# DeepFood
 Django web application to generate food ingredients from indan food image using fine-tuned ResNet50.
 
-![Home page](https://gdurl.com/TxXe)
-![ingredients page](https://gdurl.com/c0hG)
+![Home page](https://i.postimg.cc/8k2KW5xX/home.png)
+![ingredients page](https://i.postimg.cc/HxJz8DzC/dosa.png)
 
 ## Training step:
 ![accuracy](https://gdurl.com/0xzi)
