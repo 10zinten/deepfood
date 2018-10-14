@@ -16,3 +16,10 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 ![Home page](https://i.postiimg.cc/8k2KW5xX/home.png)
 ![ingredients page](https://i.postimg.cc/HxJz8DzC/dosa.png)
 
+## Run Wep app:
+```
+pip install -r requirement.txt
+cd foodImageClassifier
+python manage.py runserver
+```
+Download the dataset from
