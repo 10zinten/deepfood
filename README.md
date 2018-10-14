@@ -1,5 +1,6 @@
 # DeepFood
 This project is submitted to AI Saturday, Kattankulathur. </br>This project uses ResNet-50 to classify image of common Indian food. With limitation of access to GPU and no exiting accumulated dataset of India food over the internet. It implements transfer learning by fine tuning the last 10 layer of the ResNet-50 pretrained model on imagenet dataset. As an application of this indian food image classification model, it has simple Django web application interface to generate ingredients of the predicted food image by the fine-tuned ResNet-50 model.
+
 ![result](https://i.postimg.cc/prDxYSCm/final-prediction.png)
 
 # Model summary:
