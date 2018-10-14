@@ -13,7 +13,7 @@ This project is submitted to AI Saturday, Kattankulathur. </br>This project uses
 ![plot](https://i.postimg.cc/SR6RXNt5/plot.png)
 
 # Demo
-![Home page](https://i.postiimg.cc/8k2KW5xX/home.png)
+![Home page](https://preview.ibb.co/nruho0/home.png)
 ![ingredients page](https://i.postimg.cc/HxJz8DzC/dosa.png)
 
 ## Run Wep app:
